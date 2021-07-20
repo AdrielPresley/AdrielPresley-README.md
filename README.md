@@ -3,20 +3,32 @@
 <h1 align="center">Hi, I'm Adriel Presley!👋</h1>
 <h3 align="center">I am a self-taught student in Software Development</h3>
 
-- 🌱 I am studying **Javascrpit, Typescript, Java, React, NodeJS and Database**
+- 🌱 I am studying:
 
-- 💬 Ask me about **HTML5 and CSS3**
+#### - **Java**;
+#### - **Javascrpit**;
+#### - **Typescript**;
+#### - **React**;
+#### - **NodeJS**;
+#### - **Database**.
+
+- 💬 Ask me about:
+
+#### - **Java**;
+#### - **HTML5**;
+#### - **CSS3**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/adrielpresley/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511991801404">
-  <img align="left" alt="Whatsapp" width="22px" style="color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Whatsapp" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/adrielpresley/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
 
