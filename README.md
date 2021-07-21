@@ -3,24 +3,18 @@
 <h1 align="center">Hi, I'm Adriel Presley!👋</h1>
 <h3 align="center">I am a self-taught student in Software Development</h3>
 
-- 🌱 I am studying:
+### - 🌱 I am studying:
 
-#### - **Java**;
-#### - **Javascrpit**;
-#### - **Typescript**;
-#### - **React**;
-#### - **NodeJS**;
-#### - **Database**.
+#### - *Java*, *Javascrpit*, *Typescript*, *React*, *NodeJS* and *Database*.
 
-- 💬 Ask me about:
+### - 💬 Ask me about:
 
-#### - **Java**;
-#### - **HTML5**;
-#### - **CSS3**.
+#### - *Java*, *HTML5* and *CSS3*.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a target="_blank" href="https://www.linkedin.com/in/adrielpresley/">
   <img align="left" alt="LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
