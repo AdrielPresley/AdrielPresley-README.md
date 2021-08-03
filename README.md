@@ -1,5 +1,3 @@
-### Hi there
-
 <h1 align="center">Hi, I'm Adriel Presley!👋</h1>
 <h3 align="center">I am a self-taught student in Software Development</h3>
 
