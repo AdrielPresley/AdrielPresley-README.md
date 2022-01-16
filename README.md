@@ -1,11 +1,13 @@
 <h1 align="center">Hi, 🤜🤛 I'm Adriel Presley! 🧑💻</h1>
 <h3 align="center">I am a self-taught student in Software Development.📚</h3>
 <h3 align="center">Passionate about technology, looking for a career transition.🙏</h3>
+<h3 align="center">If you want what you never had. Do what you've never done!💡</h3>
+<br>
 
 <div>
   <a href="https://github.com/AdrielPresley">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdrielPresley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielPresley&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=AdrielPresley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielPresley&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div>
@@ -27,11 +29,9 @@
  
 </div>
 
-<br>
-
 <h3 align="left">Languages and Tools I'm Studying:</h3>
 <p align="left"> 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img aling="center" alt="AP-JAVA" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img aling="center" alt="AP-JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img aling="center" alt="AP-TS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
