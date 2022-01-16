@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 🤜🤛 I'm Adriel Presley! 🧑💻</h1>
 <h3 align="center">I am a self-taught student in Software Development.📚</h3>
 <h3 align="center">Passionate about technology, looking for a career transition.🙏</h3>
-<h3 align="center">If you want what you never had. Do what you've never done!💡</h3>
+<h3 align="center">If you want what you never had, do what you've never done!💡</h3>
 <br>
 
 <div>
